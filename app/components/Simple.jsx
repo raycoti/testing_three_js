@@ -3,6 +3,7 @@ import React3 from 'react-three-renderer';
 import * as THREE from 'three';
 import ReactDOM from 'react-dom';
 
+
 class Simple extends React.Component {
   constructor(props, context) {
     super(props, context);

@@ -1,0 +1,1 @@
+The purpose of this repo is to test out using [**react-three-render**](https://github.com/toxicFork/react-three-renderer) [**(Api reference)**](https://github.com/toxicFork/react-three-renderer/wiki/API-Reference) and [Three.js](https://threejs.org/) itself and whether this is a rabbit hole I am intrested in going in. Simple.jsx is the example given from the repo. 
